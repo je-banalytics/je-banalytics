@@ -5,7 +5,7 @@
 </div>
 
 ## 🙋 About me
-- 🧑‍💻 I'm a Business Engineering 
+- 🧑‍💻 I'm a Business Engineer
 - 📊 I work as a Business Intelligence Analyst
 - 🎯 I want to become a Data Scientist
 - 🌐 Network: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Eder-blue)](https://www.linkedin.com/in/je-bohorquez)
@@ -25,4 +25,4 @@
 
 ![Juan Eder GitHub stats](https://github-readme-stats.vercel.app/api?username=je-banalytics&show_icons=true&theme=cobalt2)
 
-![Juan Eder's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=je-banalytics&langs_count=8&theme=cobalt2)
+![Juan Eder's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=je-banalyticss&langs_count=8&theme=cobalt2)
