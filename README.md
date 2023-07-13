@@ -1,16 +1,28 @@
-### Hi there 👋
+<img src="banner je.png">
 
-<!--
-**je-banalytics/je-banalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<h2 align="center">Hi there!👋 I'm <a href="https://je-bohorquez.github.io/Portfolio/">Juan Eder</a></h2>
+</div>
 
-Here are some ideas to get you started:
+## 🙋 About me
+- 🧑‍💻 I'm a Business Engineering 
+- 📊 I work as a Business Intelligence Analyst
+- 🎯 I want to become a Data Scientist
+- 🌐 Network: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Eder-blue)](https://www.linkedin.com/in/je-bohorquez)
+- 💼 Portfolio: https://je-bohorquez.github.io/Portfolio/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align = "left">
+  <h2> :hammer_and_wrench: Softwares & Tools</h2>
+  <div>
+    <img src="Power-BI.png" title="Power BI" alt="Power-BI" width="70" height="50"/>&nbsp;
+     <img src="sql-server-logo.svg" title="SQL Server" alt="SQL Server" width="70" height="50"/>&nbsp;
+  </div>
+
+## 📈 My statics board:
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=je-banalytics&theme=cobalt2&border_radius=20&date_format=j%20M%5B%20Y%5D&card_width=470)](https://git.io/streak-stats)
+
+![Juan Eder GitHub stats](https://github-readme-stats.vercel.app/api?username=je-banalytics&show_icons=true&theme=cobalt2)
+
+![Juan Eder's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=je-banalytics&langs_count=8&theme=cobalt2)
