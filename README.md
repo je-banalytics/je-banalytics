@@ -1,4 +1,4 @@
-<img src="banner je.png">
+<img src="banner jeb.png">
 
 <div align="center">
 <h2 align="center">Hi there!👋 I'm <a href="https://je-bohorquez.github.io/Portfolio/">Juan Eder</a></h2>
@@ -25,4 +25,4 @@
 
 ![Juan Eder GitHub stats](https://github-readme-stats.vercel.app/api?username=je-banalytics&show_icons=true&theme=cobalt2)
 
-![Juan Eder's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=je-banalyticss&langs_count=8&theme=cobalt2)
+![Juan Eder's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=je-banalytics&langs_count=8&theme=cobalt2)
